@@ -1,0 +1,18 @@
+# MATLAB
+# --------
+% MATLAB workspace variables
+*.mat
+*.asv
+*.m~
+*.csv
+
+# Simulink
+# --------
+slprj/
+*.slxc
+*.sxc
+
+# Results caching if not needed for version control
+# We keep PNGs but ignore huge matrices and tables
+system/Results
+
