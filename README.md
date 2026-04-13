@@ -1,8 +1,6 @@
 # Kalman Filter-Based Cyber-Attack Detection Scheme for Data Integrity in DC Microgrid Communications
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717.svg?style=for-the-badge&logo=github)](https://github.com/DeeThunder/Kalman-Filter-Based-Cyber-Attack-Detection-Scheme-for-Data-Integrity-in-DC-Microgrid-Communications)
-
-> **Final Year Project** — Designed by **Atanda Isaac-Great ** for a client of Deethunder Nexus
+> **Final Year Project** — Designed by **Atanda Isaac-Great** for a client of Deethunder Nexus
 
 ---
 
